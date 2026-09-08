@@ -1,0 +1,107 @@
+C:\Users\SAM 898S\Desktop\Новая папка\AIS-PRODAJA11\AIS PRODAJA\bin\Debug\AIS PRODAJA.exe.config
+C:\Users\SAM 898S\Desktop\Новая папка\AIS-PRODAJA11\AIS PRODAJA\bin\Debug\AIS PRODAJA.exe
+C:\Users\SAM 898S\Desktop\Новая папка\AIS-PRODAJA11\AIS PRODAJA\bin\Debug\AIS PRODAJA.pdb
+C:\Users\SAM 898S\Desktop\Новая папка\AIS-PRODAJA11\AIS PRODAJA\bin\Debug\MySql.Data.dll
+C:\Users\SAM 898S\Desktop\Новая папка\AIS-PRODAJA11\AIS PRODAJA\bin\Debug\Google.Protobuf.dll
+C:\Users\SAM 898S\Desktop\Новая папка\AIS-PRODAJA11\AIS PRODAJA\bin\Debug\ZstdNet.dll
+C:\Users\SAM 898S\Desktop\Новая папка\AIS-PRODAJA11\AIS PRODAJA\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\SAM 898S\Desktop\Новая папка\AIS-PRODAJA11\AIS PRODAJA\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\SAM 898S\Desktop\Новая папка\AIS-PRODAJA11\AIS PRODAJA\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\SAM 898S\Desktop\Новая папка\AIS-PRODAJA11\AIS PRODAJA\bin\Debug\System.Memory.dll
+C:\Users\SAM 898S\Desktop\Новая папка\AIS-PRODAJA11\AIS PRODAJA\bin\Debug\System.Buffers.dll
+C:\Users\SAM 898S\Desktop\Новая папка\AIS-PRODAJA11\AIS PRODAJA\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\SAM 898S\Desktop\Новая папка\AIS-PRODAJA11\AIS PRODAJA\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\SAM 898S\Desktop\Новая папка\AIS-PRODAJA11\AIS PRODAJA\bin\Debug\MySql.Data.xml
+C:\Users\SAM 898S\Desktop\Новая папка\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS PRODAJA.csproj.AssemblyReference.cache
+C:\Users\SAM 898S\Desktop\Новая папка\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS PRODAJA.csproj.SuggestedBindingRedirects.cache
+C:\Users\SAM 898S\Desktop\Новая папка\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS PRODAJA.exe.config
+C:\Users\SAM 898S\Desktop\Новая папка\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Form1.resources
+C:\Users\SAM 898S\Desktop\Новая папка\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Form10.resources
+C:\Users\SAM 898S\Desktop\Новая папка\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Form1_addClient.resources
+C:\Users\SAM 898S\Desktop\Новая папка\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Form2.resources
+C:\Users\SAM 898S\Desktop\Новая папка\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Form3.resources
+C:\Users\SAM 898S\Desktop\Новая папка\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Form4.resources
+C:\Users\SAM 898S\Desktop\Новая папка\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Form5.resources
+C:\Users\SAM 898S\Desktop\Новая папка\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Form6.resources
+C:\Users\SAM 898S\Desktop\Новая папка\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Form6_addItem.resources
+C:\Users\SAM 898S\Desktop\Новая папка\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Form7.resources
+C:\Users\SAM 898S\Desktop\Новая папка\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Form8.resources
+C:\Users\SAM 898S\Desktop\Новая папка\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Form9.resources
+C:\Users\SAM 898S\Desktop\Новая папка\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Menu.resources
+C:\Users\SAM 898S\Desktop\Новая папка\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Properties.Resources.resources
+C:\Users\SAM 898S\Desktop\Новая папка\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS PRODAJA.csproj.GenerateResource.cache
+C:\Users\SAM 898S\Desktop\Новая папка\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS PRODAJA.csproj.CoreCompileInputs.cache
+C:\Users\SAM 898S\Desktop\Новая папка\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS PRODAJA.csproj.CopyComplete
+C:\Users\SAM 898S\Desktop\Новая папка\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS PRODAJA.exe
+C:\Users\SAM 898S\Desktop\Новая папка\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS PRODAJA.pdb
+C:\Users\SAM 898S\Desktop\AIS-PRODAJA11\AIS PRODAJA\bin\Debug\AIS PRODAJA.exe.config
+C:\Users\SAM 898S\Desktop\AIS-PRODAJA11\AIS PRODAJA\bin\Debug\AIS PRODAJA.exe
+C:\Users\SAM 898S\Desktop\AIS-PRODAJA11\AIS PRODAJA\bin\Debug\AIS PRODAJA.pdb
+C:\Users\SAM 898S\Desktop\AIS-PRODAJA11\AIS PRODAJA\bin\Debug\MySql.Data.dll
+C:\Users\SAM 898S\Desktop\AIS-PRODAJA11\AIS PRODAJA\bin\Debug\Google.Protobuf.dll
+C:\Users\SAM 898S\Desktop\AIS-PRODAJA11\AIS PRODAJA\bin\Debug\ZstdNet.dll
+C:\Users\SAM 898S\Desktop\AIS-PRODAJA11\AIS PRODAJA\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\SAM 898S\Desktop\AIS-PRODAJA11\AIS PRODAJA\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\SAM 898S\Desktop\AIS-PRODAJA11\AIS PRODAJA\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\SAM 898S\Desktop\AIS-PRODAJA11\AIS PRODAJA\bin\Debug\System.Memory.dll
+C:\Users\SAM 898S\Desktop\AIS-PRODAJA11\AIS PRODAJA\bin\Debug\System.Buffers.dll
+C:\Users\SAM 898S\Desktop\AIS-PRODAJA11\AIS PRODAJA\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\SAM 898S\Desktop\AIS-PRODAJA11\AIS PRODAJA\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\SAM 898S\Desktop\AIS-PRODAJA11\AIS PRODAJA\bin\Debug\MySql.Data.xml
+C:\Users\SAM 898S\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS PRODAJA.csproj.AssemblyReference.cache
+C:\Users\SAM 898S\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS PRODAJA.csproj.SuggestedBindingRedirects.cache
+C:\Users\SAM 898S\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS PRODAJA.exe.config
+C:\Users\SAM 898S\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Form1.resources
+C:\Users\SAM 898S\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Form10.resources
+C:\Users\SAM 898S\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Form1_addClient.resources
+C:\Users\SAM 898S\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Form2.resources
+C:\Users\SAM 898S\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Form3.resources
+C:\Users\SAM 898S\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Form4.resources
+C:\Users\SAM 898S\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Form5.resources
+C:\Users\SAM 898S\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Form6.resources
+C:\Users\SAM 898S\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Form6_addItem.resources
+C:\Users\SAM 898S\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Form7.resources
+C:\Users\SAM 898S\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Form8.resources
+C:\Users\SAM 898S\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Form9.resources
+C:\Users\SAM 898S\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Menu.resources
+C:\Users\SAM 898S\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Properties.Resources.resources
+C:\Users\SAM 898S\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS PRODAJA.csproj.GenerateResource.cache
+C:\Users\SAM 898S\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS PRODAJA.csproj.CoreCompileInputs.cache
+C:\Users\SAM 898S\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS PRODAJA.csproj.CopyComplete
+C:\Users\SAM 898S\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS PRODAJA.exe
+C:\Users\SAM 898S\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS PRODAJA.pdb
+C:\Users\admin\Desktop\AIS-PRODAJA11\AIS PRODAJA\bin\Debug\AIS PRODAJA.exe.config
+C:\Users\admin\Desktop\AIS-PRODAJA11\AIS PRODAJA\bin\Debug\AIS PRODAJA.exe
+C:\Users\admin\Desktop\AIS-PRODAJA11\AIS PRODAJA\bin\Debug\AIS PRODAJA.pdb
+C:\Users\admin\Desktop\AIS-PRODAJA11\AIS PRODAJA\bin\Debug\Google.Protobuf.dll
+C:\Users\admin\Desktop\AIS-PRODAJA11\AIS PRODAJA\bin\Debug\ZstdNet.dll
+C:\Users\admin\Desktop\AIS-PRODAJA11\AIS PRODAJA\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\admin\Desktop\AIS-PRODAJA11\AIS PRODAJA\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\admin\Desktop\AIS-PRODAJA11\AIS PRODAJA\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\admin\Desktop\AIS-PRODAJA11\AIS PRODAJA\bin\Debug\System.Memory.dll
+C:\Users\admin\Desktop\AIS-PRODAJA11\AIS PRODAJA\bin\Debug\System.Buffers.dll
+C:\Users\admin\Desktop\AIS-PRODAJA11\AIS PRODAJA\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\admin\Desktop\AIS-PRODAJA11\AIS PRODAJA\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\admin\Desktop\AIS-PRODAJA11\AIS PRODAJA\bin\Debug\MySql.Data.xml
+C:\Users\admin\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS PRODAJA.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS PRODAJA.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS PRODAJA.exe.config
+C:\Users\admin\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Form1.resources
+C:\Users\admin\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Form10.resources
+C:\Users\admin\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Form1_addClient.resources
+C:\Users\admin\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Form2.resources
+C:\Users\admin\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Form3.resources
+C:\Users\admin\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Form4.resources
+C:\Users\admin\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Form5.resources
+C:\Users\admin\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Form6.resources
+C:\Users\admin\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Form6_addItem.resources
+C:\Users\admin\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Form7.resources
+C:\Users\admin\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Form8.resources
+C:\Users\admin\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Form9.resources
+C:\Users\admin\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Menu.resources
+C:\Users\admin\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS_PRODAJA.Properties.Resources.resources
+C:\Users\admin\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS PRODAJA.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS PRODAJA.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS PROD.D458D53C.Up2Date
+C:\Users\admin\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS PRODAJA.exe
+C:\Users\admin\Desktop\AIS-PRODAJA11\AIS PRODAJA\obj\Debug\AIS PRODAJA.pdb

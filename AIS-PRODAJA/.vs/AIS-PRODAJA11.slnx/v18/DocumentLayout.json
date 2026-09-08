@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\AIS-PRODAJA11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\AIS-PRODAJA11\\AIS PRODAJA\\Form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AIS PRODAJA\\Form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\AIS-PRODAJA11\\AIS PRODAJA\\Form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AIS PRODAJA\\Form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\AIS-PRODAJA11\\AIS PRODAJA\\Form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AIS PRODAJA\\Form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\AIS-PRODAJA11\\AIS PRODAJA\\Form8.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AIS PRODAJA\\Form8.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\AIS-PRODAJA11\\AIS PRODAJA\\Form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AIS PRODAJA\\Form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\AIS-PRODAJA11\\AIS PRODAJA\\Form6_addItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AIS PRODAJA\\Form6_addItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\AIS-PRODAJA11\\AIS PRODAJA\\Form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AIS PRODAJA\\Form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\AIS-PRODAJA11\\AIS PRODAJA\\Form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AIS PRODAJA\\Form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\AIS-PRODAJA11\\AIS PRODAJA\\Form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AIS PRODAJA\\Form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\AIS-PRODAJA11\\AIS PRODAJA\\Form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AIS PRODAJA\\Form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\AIS-PRODAJA11\\AIS PRODAJA\\Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AIS PRODAJA\\Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\AIS-PRODAJA11\\AIS PRODAJA\\Form1_addClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AIS PRODAJA\\Form1_addClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\AIS-PRODAJA11\\AIS PRODAJA\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AIS PRODAJA\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form10.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\AIS-PRODAJA11\\AIS PRODAJA\\Form10.cs",
+              "RelativeDocumentMoniker": "AIS PRODAJA\\Form10.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\AIS-PRODAJA11\\AIS PRODAJA\\Form10.cs",
+              "RelativeToolTip": "AIS PRODAJA\\Form10.cs",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAUwPsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:52:24.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form9.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\AIS-PRODAJA11\\AIS PRODAJA\\Form9.cs",
+              "RelativeDocumentMoniker": "AIS PRODAJA\\Form9.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\AIS-PRODAJA11\\AIS PRODAJA\\Form9.cs",
+              "RelativeToolTip": "AIS PRODAJA\\Form9.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:52:14.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form8.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\AIS-PRODAJA11\\AIS PRODAJA\\Form8.cs",
+              "RelativeDocumentMoniker": "AIS PRODAJA\\Form8.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\AIS-PRODAJA11\\AIS PRODAJA\\Form8.cs",
+              "RelativeToolTip": "AIS PRODAJA\\Form8.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:52:01.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form8.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\AIS-PRODAJA11\\AIS PRODAJA\\Form8.Designer.cs",
+              "RelativeDocumentMoniker": "AIS PRODAJA\\Form8.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\AIS-PRODAJA11\\AIS PRODAJA\\Form8.Designer.cs",
+              "RelativeToolTip": "AIS PRODAJA\\Form8.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:52:00.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form7.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\AIS-PRODAJA11\\AIS PRODAJA\\Form7.cs",
+              "RelativeDocumentMoniker": "AIS PRODAJA\\Form7.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\AIS-PRODAJA11\\AIS PRODAJA\\Form7.cs",
+              "RelativeToolTip": "AIS PRODAJA\\Form7.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:51:40.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form6_addItem.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\AIS-PRODAJA11\\AIS PRODAJA\\Form6_addItem.cs",
+              "RelativeDocumentMoniker": "AIS PRODAJA\\Form6_addItem.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\AIS-PRODAJA11\\AIS PRODAJA\\Form6_addItem.cs",
+              "RelativeToolTip": "AIS PRODAJA\\Form6_addItem.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:51:31.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form6.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\AIS-PRODAJA11\\AIS PRODAJA\\Form6.cs",
+              "RelativeDocumentMoniker": "AIS PRODAJA\\Form6.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\AIS-PRODAJA11\\AIS PRODAJA\\Form6.cs",
+              "RelativeToolTip": "AIS PRODAJA\\Form6.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAAHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:51:20.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\AIS-PRODAJA11\\AIS PRODAJA\\Form5.cs",
+              "RelativeDocumentMoniker": "AIS PRODAJA\\Form5.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\AIS-PRODAJA11\\AIS PRODAJA\\Form5.cs",
+              "RelativeToolTip": "AIS PRODAJA\\Form5.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:51:11.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\AIS-PRODAJA11\\AIS PRODAJA\\Form4.cs",
+              "RelativeDocumentMoniker": "AIS PRODAJA\\Form4.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\AIS-PRODAJA11\\AIS PRODAJA\\Form4.cs",
+              "RelativeToolTip": "AIS PRODAJA\\Form4.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:50:59.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\AIS-PRODAJA11\\AIS PRODAJA\\Form3.cs",
+              "RelativeDocumentMoniker": "AIS PRODAJA\\Form3.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\AIS-PRODAJA11\\AIS PRODAJA\\Form3.cs",
+              "RelativeToolTip": "AIS PRODAJA\\Form3.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:50:51.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\AIS-PRODAJA11\\AIS PRODAJA\\Form2.cs",
+              "RelativeDocumentMoniker": "AIS PRODAJA\\Form2.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\AIS-PRODAJA11\\AIS PRODAJA\\Form2.cs",
+              "RelativeToolTip": "AIS PRODAJA\\Form2.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:50:42.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1_addClient.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\AIS-PRODAJA11\\AIS PRODAJA\\Form1_addClient.cs",
+              "RelativeDocumentMoniker": "AIS PRODAJA\\Form1_addClient.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\AIS-PRODAJA11\\AIS PRODAJA\\Form1_addClient.cs",
+              "RelativeToolTip": "AIS PRODAJA\\Form1_addClient.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:50:35.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\AIS-PRODAJA11\\AIS PRODAJA\\Form1.cs",
+              "RelativeDocumentMoniker": "AIS PRODAJA\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\AIS-PRODAJA11\\AIS PRODAJA\\Form1.cs",
+              "RelativeToolTip": "AIS PRODAJA\\Form1.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:47:07.071Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

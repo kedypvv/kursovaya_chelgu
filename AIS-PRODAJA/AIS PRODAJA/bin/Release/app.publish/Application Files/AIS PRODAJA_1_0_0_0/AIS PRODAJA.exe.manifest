@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="AIS PRODAJA.exe" version="1.0.0.0" publicKeyToken="b75050b0a9abb2c7" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="AIS PRODAJA" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="AIS PRODAJA.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Параметры манифеста UAC
+          Если нужно изменить уровень контроля учетных записей Windows, замените 
+          узел requestedExecutionLevel одним из следующих значений.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+        Если нужно использовать виртуализацию файлов и реестра для обратной
+             совместимости, удалите узел requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AIS PRODAJA.exe" size="1145256">
+      <assemblyIdentity name="AIS PRODAJA" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>RgCpdlmzCWhshXOtuo9iKj9X7TUl/+b4VoUAauq1HLU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MySql.Data.dll" size="1428480">
+      <assemblyIdentity name="MySql.Data" version="8.0.28.0" publicKeyToken="C5687FC88969C44D" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>7uI3SYjr06kcH8pKYS2vUjk2Egikqew1HxgksvNHMWU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="AIS PRODAJA.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=MELKIY\admin" issuerKeyHash="b693e3c50fb44fa89d56e91be4288a905f593dfe" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>oWGruu73WeFv8zOB2k2a/5HmzEw5B0T4uxgCs8lPRZ4=</DigestValue></Reference></SignedInfo><SignatureValue>f069wusekTbk2zafmhVVSE6EYmiiU+iTbWAXgfzXIFGzfm4O/5uyBzZGZk0GvWQfkbbL4b0ZDpd5Pqck3opxDvZ1feo5p9GmYA4ri+jXnCO/72u5wT1sfHihVXyiui4p/XXRLhKG1UuRucXt6n0P0YkgtT5yAEnXELd2vuMi8VQ=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>4ln+5cFZ3kcbuUgR/EcD/1HYQvOtOiTg5v/qVK/6kEZCXs0wr9PYVcwCmjKKFVmTMOersadTCIg8iRv1T+skS5HeifuxJ8X13Wv5E/kLrP3YOt/eejU8vtTHGV+HuidTXSKPPmsa6OsBZi1BylaCuBqd9C7z4AukMS3GXOFgiSk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="9e454fc9b30218bbf84407394ccce691ff9a4dda8133f36fe159f7eebaab61a1" Description="" Url=""><as:assemblyIdentity name="AIS PRODAJA.exe" version="1.0.0.0" publicKeyToken="b75050b0a9abb2c7" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=MELKIY\admin</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>1i4KXu2vEVynnpHDARWCgGHufaz837ZtGR8zUU0TdVI=</DigestValue></Reference></SignedInfo><SignatureValue>rmcpjjFBSkFUYTA50/JdLQQKED2Vo1ZDTlG7kgoXAQQTM/QMXKfal08DM67e0PWrSFCF8r1s1IPrPA01y16V9BQeCD6ETt/XV7NMyzzVoNZmnVZO0RoBSDjhGTNc+1DfHaJ1J01C9xhpx/5/62Q3ZRLZgFsUC+e9xLgydKX52J8=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>4ln+5cFZ3kcbuUgR/EcD/1HYQvOtOiTg5v/qVK/6kEZCXs0wr9PYVcwCmjKKFVmTMOersadTCIg8iRv1T+skS5HeifuxJ8X13Wv5E/kLrP3YOt/eejU8vtTHGV+HuidTXSKPPmsa6OsBZi1BylaCuBqd9C7z4AukMS3GXOFgiSk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIByTCCATKgAwIBAgIQTDDlqW6+e6FGebE1gZcYFjANBgkqhkiG9w0BAQsFADAjMSEwHwYDVQQDHhgATQBFAEwASwBJAFkAXABhAGQAbQBpAG4wHhcNMjYwOTA4MjIxODAwWhcNMjcwOTA5MDQxODAwWjAjMSEwHwYDVQQDHhgATQBFAEwASwBJAFkAXABhAGQAbQBpAG4wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOJZ/uXBWd5HG7lIEfxHA/9R2ELzrTok4Ob/6lSv+pBGQl7NMK/T2FXMApoyihVZkzDnq7GnUwiIPIkb9U/rJEuR3on7sSfF9d1r+RP5C6z92Drf3no1PL7Uxxlfh7onU10ijz5rGujrAWYtQcpWgrganfQu8+ALpDEtxlzhYIkpAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAl3+r+nwqbWKs0FNkM5qA0FcdcpUFE7FsLqgv0mv11frna/K9cNfdXWl+DqLfyyOyPyODH06U2POkTOQZ6OliUujk3YBhBcurX7pUhc7a2VPaIFlZU0Xbk6VtiUMIWjzQQMEZGbGYTtuPZh+FTBxivEbUrOmDF5RaBP7lMwvAeIQ=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
